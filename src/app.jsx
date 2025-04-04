@@ -8,6 +8,9 @@ import HospitalAdminPage from "./pages/HospitalAdminPage";
 import AdminLoginPage from "./pages/AdminLoginPage";
 import HomePage from "./pages/HomePage";
 
+
+
+
 export default function App() {
     return (
         <Router>

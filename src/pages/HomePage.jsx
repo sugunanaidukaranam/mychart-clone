@@ -34,5 +34,6 @@ export default function HomePage() {
                 <button onClick={() => navigate("/admin-login")}>🩺 Admin Login</button>
             </div>
         </div>
+
     );
 }
